@@ -28,7 +28,7 @@
   - Рекомендации и обучение без учителя / Unsupervised learning
 - [**Выпускной проект / Final project**  - *Project_final*](15_graduate_project_telecom_customer_churn/15_graduate_project_telecom_customer_churn.ipynb)
 
-### Проекты
+## Проекты
 
 |№| Название | Общая информация | Инструменты |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
