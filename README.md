@@ -1,11 +1,11 @@
 ## Yandex.Praktikum Data Science Projects
 Репозиторий с проектами, созданными в рамках курса "Специалист Data Science" в Яндекс.Практикуме
 
-#### О курсе / About program
+### О курсе / About program
 
 - Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
 
-#### Содержание: / Content:
+### Содержание: / Content:
 
 - **Модуль 01 / Module 01**
   - [Предобработка данных / Data Processing - *Project_01*](01_bank_data_preprocessing/01_bank_data_preprocessing.ipynb)
@@ -28,7 +28,7 @@
   - Рекомендации и обучение без учителя / Unsupervised learning
 - [**Выпускной проект / Final project**  - *Project_final*](15_graduate_project_telecom_customer_churn/15_graduate_project_telecom_customer_churn.ipynb)
 
-## Проекты
+### Проекты
 
 |№| Название | Общая информация | Инструменты |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
@@ -48,7 +48,7 @@
 |2   |[Исследование объявлений о продаже квартир](02_real_estate_market/02_real_estate_market.ipynb)|На базе архива объявлений о продаже квартир в Санкт-Петербурге и соседних городах провести EDA. Цель - определить параметры, чтобы в дальнейшем научиться определять рыночную стоимость объектов недвижимости|`matplotlib` `plotly` `pandas` `numpy` `math`|
 |1   |[Исследование надёжности заёмщиков](01_bank_data_preprocessing/01_bank_data_preprocessing.ipynb)|Исследование надёжности заёмщиков для кредитного отдела банка с целью построения модели кредитного скоринга|`pymystem3` `pandas` `numpy` `collections` `math`|
 
-# Контакты
+## Контакты
 
 - email: slavy@list.ru
 - telegram: @StanySlavy
