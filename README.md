@@ -30,7 +30,7 @@ This repository contains my projects from the "Data Science Specialist" training
   - Рекомендации и обучение без учителя / Unsupervised learning
 - **Выпускной проект / Final project**  - *Project_final*
 
-## [Project_01](Yandex.Praktikum.DS/01_bank_data_preprocessing/01_bank_data_preprocessing.ipynb) 
+## [Project_01](01_bank_data_preprocessing/01_bank_data_preprocessing.ipynb) 
 
 ### Предобработка данных
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
