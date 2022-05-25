@@ -3,7 +3,7 @@
 
 This repository contains my projects from the "Data Science Specialist" training program by Yandex.Praktikum
 
-## О курсе / About program
+#### О курсе / About program
 
 - Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
 
