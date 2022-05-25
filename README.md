@@ -1,7 +1,5 @@
-## Data Science
-
-Проекты, реализованные в рамках курса "Специалист Data Science" в Яндекс.Практикуме
-# Yandex.Praktikum Data Science Projects
+## Yandex.Praktikum Data Science Projects
+Репозиторий с проектами, созданными в рамках курса "Специалист Data Science" в Яндекс.Практикуме
 
 #### О курсе / About program
 
