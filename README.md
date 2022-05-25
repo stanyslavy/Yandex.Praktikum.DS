@@ -3,6 +3,10 @@
 
 This repository contains my projects from the "Data Science Specialist" training program by Yandex.Praktikum
 
+## О курсе / About program
+
+- Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
+
 #### Содержание: / Content:
 
 - **Модуль 01 / Module 01**
@@ -28,7 +32,7 @@ This repository contains my projects from the "Data Science Specialist" training
 
 ## Project_01 
 
-### Предобработка данных
+### [Предобработка данных](Yandex.Praktikum.DS/01_bank_data_preprocessing/01_bank_data_preprocessing.ipynb)
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
