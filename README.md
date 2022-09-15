@@ -48,3 +48,7 @@
 
 - email: slavy@list.ru
 - telegram: @StanySlavy
+<<<<<<< HEAD
+=======
+
+>>>>>>> test
