@@ -48,11 +48,6 @@
 
 - email: slavy@list.ru
 - telegram: @StanySlavy
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> test
-=======
 
->>>>>>> test2
+
